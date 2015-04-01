@@ -1,6 +1,5 @@
 # Wave-Mixer
-This is the basic application which mixes two sound waves. It also allows users to amplify, modulate, scale and shift the waves.
-
+This is the basic application which mixes two sound waves. It also allows users to amplify, modulate, scale and shift the waves. Users can select three audio files at maximum to process through GUI.
 Dependencies
 -------------
 You must have following libraries to run the application
