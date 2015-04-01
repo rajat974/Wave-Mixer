@@ -7,8 +7,9 @@ You must have following libraries to run the application
 - python-tk
 - python-pyaudio
 - python-tksnack
+
 Running Instruction
----
+----------------
 python waveMixer.pyc
 
 Note
